@@ -1,0 +1,24 @@
+/* .cursor-glow {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(
+    circle,
+    rgba(204, 233, 241, 0.9) 0%,
+    rgba(255, 220, 245, 0.5) 20%,
+    rgba(180, 160, 255, 0.2) 45%,
+    transparent 70%
+  );
+  filter: blur(20px);
+  mix-blend-mode: screen;
+  pointer-events: none;
+  z-index: 0;
+}
+/* for devices w/o cursor */
+/* @media (hover: none) {
+  .cursor-glow {
+    display: none;
+  }
+} */
