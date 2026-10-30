@@ -17,7 +17,7 @@ function App() {
       {/* Content layer: sits on top */}
       <main className="content">
         <section className="intro">
-          <h1>Heyo I'm Christine!</h1>
+          <h1>Hi I'm Christine</h1>
           <p>professional daydreamer · developer · life enthusiast</p>
         </section>
       </main>
